@@ -134,42 +134,74 @@ me.say_hi()
 
 ## 📌 Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/YashasviAgrawal/E-Commerce-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashasviAgrawal&repo=E-Commerce-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
-  </a>
-  <a href="https://github.com/YashasviAgrawal/Twitter-Sentiment-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashasviAgrawal&repo=Twitter-Sentiment-Analysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/YashasviAgrawal/OOP-BASED-LIBRARY-MANAGEMENT-SYSTEM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashasviAgrawal&repo=OOP-BASED-LIBRARY-MANAGEMENT-SYSTEM&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
-  </a>
-  <a href="https://github.com/YashasviAgrawal/Student-Record-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashasviAgrawal&repo=Student-Record-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [E-Commerce Platform](https://github.com/YashasviAgrawal/E-Commerce-Platform)
+Full e-commerce backend with products, cart & order flow.
+
+<img src="https://img.shields.io/github/languages/top/YashasviAgrawal/E-Commerce-Platform?style=flat-square&color=a78bfa" />
+<img src="https://img.shields.io/github/stars/YashasviAgrawal/E-Commerce-Platform?style=flat-square&color=f472b6" />
+<img src="https://img.shields.io/github/last-commit/YashasviAgrawal/E-Commerce-Platform?style=flat-square&color=6366f1" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🐦 [Twitter Sentiment Analysis](https://github.com/YashasviAgrawal/Twitter-Sentiment-Analysis)
+NLP model that classifies tweet sentiment using machine learning.
+
+<img src="https://img.shields.io/github/languages/top/YashasviAgrawal/Twitter-Sentiment-Analysis?style=flat-square&color=a78bfa" />
+<img src="https://img.shields.io/github/stars/YashasviAgrawal/Twitter-Sentiment-Analysis?style=flat-square&color=f472b6" />
+<img src="https://img.shields.io/github/last-commit/YashasviAgrawal/Twitter-Sentiment-Analysis?style=flat-square&color=6366f1" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [Library Management System](https://github.com/YashasviAgrawal/OOP-BASED-LIBRARY-MANAGEMENT-SYSTEM)
+OOP-based system to manage books, members & issue/return.
+
+<img src="https://img.shields.io/github/languages/top/YashasviAgrawal/OOP-BASED-LIBRARY-MANAGEMENT-SYSTEM?style=flat-square&color=a78bfa" />
+<img src="https://img.shields.io/github/stars/YashasviAgrawal/OOP-BASED-LIBRARY-MANAGEMENT-SYSTEM?style=flat-square&color=f472b6" />
+<img src="https://img.shields.io/github/last-commit/YashasviAgrawal/OOP-BASED-LIBRARY-MANAGEMENT-SYSTEM?style=flat-square&color=6366f1" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [Student Record System](https://github.com/YashasviAgrawal/Student-Record-System)
+CLI program to add, view, update & delete student records.
+
+<img src="https://img.shields.io/github/languages/top/YashasviAgrawal/Student-Record-System?style=flat-square&color=a78bfa" />
+<img src="https://img.shields.io/github/stars/YashasviAgrawal/Student-Record-System?style=flat-square&color=f472b6" />
+<img src="https://img.shields.io/github/last-commit/YashasviAgrawal/Student-Record-System?style=flat-square&color=6366f1" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
+<!-- These cards are generated inside this repo by .github/workflows/profile.yml -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YashasviAgrawal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashasviAgrawal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&langs_count=8" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YashasviAgrawal&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashasviAgrawal&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=7c3aed&hide_border=true&radius=8" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashasviAgrawal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </p>
 
 ---
